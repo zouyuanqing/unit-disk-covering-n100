@@ -65,6 +65,14 @@ python scripts/generate_bounds.py
 powershell -ExecutionPolicy Bypass -File scripts/check.ps1
 ```
 
+On Linux or in GitHub Actions:
+
+```bash
+bash scripts/check.sh
+```
+
+The same checks run automatically in `.github/workflows/ci.yml`.
+
 ## License
 
 Code is released under the MIT License. Paper text and figures are

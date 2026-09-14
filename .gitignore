@@ -1,0 +1,12 @@
+build/
+dist/
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+__pycache__/
+*.pyc

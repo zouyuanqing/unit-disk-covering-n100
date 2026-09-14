@@ -1,0 +1,15 @@
+{
+  "critical_point": [
+    "-6.0621778264910705273460621952705532842998183883363",
+    "-5.5"
+  ],
+  "critical_ray_max_endpoint": "8.18535277187244996995370372473392945888048681549803996306672",
+  "lattice_points_in_pool": 121,
+  "points_in_A": 97,
+  "target_squared_radius": 67,
+  "triangles_meeting_target_disk": 204,
+  "triangles_with_no_A_vertex": 0,
+  "triangles_with_one_A_vertex": 12,
+  "triangles_with_three_A_vertices": 156,
+  "triangles_with_two_A_vertices": 36
+}
